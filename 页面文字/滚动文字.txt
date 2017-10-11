@@ -1,0 +1,29 @@
+◎游戏角色的选择
+◎游戏登录的方法
+◎游戏地图与坐标
+◎交友与收发邮件
+◎聊天系统与命令
+◎药品食物的购买
+◎携带物品与金钱
+<tr><td valign="top">
+<table  width="100%" border="0px" cellspacing="0px" cellpadding="0px">
+<tr><td valign="top">
+<img src="images/top1.jpg" style="display:block" >
+</td></tr>
+<tr><td valign="top">
+<img src="images/top3.jpg" style="display:block" >
+</td></tr>
+<tr><td>
+<table border="0px" width="100%" cellspcing="1px" cellpadding="0px" bgcolor="#98ccff">
+<tr  bgcolor="#ffffcc">
+<td height="25px"><font color="#990000" size="2px" >
+&nbsp;&nbsp;您现在的位置：首页>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;首&nbsp;页&nbsp;|&nbsp;游戏安装&nbsp;|&nbsp;游戏介绍&nbsp;|&nbsp;新手上路&nbsp;|&nbsp;高手进阶&nbsp;|&nbsp;常用信息&nbsp;|&nbsp;游戏规则
+ 
+</font></td></tr>
+</table>
+
+</td></tr>
+<tr><td height="3px" bgcolor="#ff99cc" valign="top">
+</td></tr>
+</table>
+ </td></tr>
